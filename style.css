@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(203, 174, 250);
+}
+
+table thead {
+    background-color: #9a4dff;
+    color: rgb(255, 255, 255);
+}
+
+th{
+    text-align: center;
+}
+
+.titulo{
+    color:rgb(138, 98, 202);
+    margin-top: 2em;
+}
